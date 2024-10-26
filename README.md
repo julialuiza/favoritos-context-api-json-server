@@ -5,9 +5,9 @@ Will sleep after a while.
 1. Register for [Glitch](https://glitch.com/) or go to [Glitch/edit](https://glitch.com/)
 2. Click **New Project**
 3. Click **Import from GitHub**
-4. Paste `https://github.com/julialuiza/favoritos-json-server` into the URL-input and click OK.
+4. Paste `https://github.com/julialuiza/favoritos-context-api-json-server` into the URL-input and click OK.
 5. Wait for it to setup
-6. Press **Share**-button to get your URL to live site. It should be something for example like: `https://seemly-truthful-scribe.glitch.me/`. And your DB will be at `https://seemly-truthful-scribe.glitch.me/posts`
+6. Press **Share**-button to get your URL to live site. It should be something for example like: `https://seemly-truthful-scribe.glitch.me/`. And your DB will be at `https://seemly-truthful-scribe.glitch.me/favoritos`
 
 
 
